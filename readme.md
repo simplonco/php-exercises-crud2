@@ -2,13 +2,13 @@
 
 ##Exercice 1
 
-Créer un formulaire permettant d'ajouter un utilisateur dans la base de données. Il devra comporter les champs : nom, prénom, date de naissance, carte de fidélité (case à cocher) et numéro de carte de fidélité.
+Créer un formulaire permettant d'ajouter un client dans la base de données. Il devra comporter les champs : nom, prénom, date de naissance, carte de fidélité (case à cocher) et numéro de carte de fidélité.
 
 A l'aide de ce formulaire, ajouter à la liste des clients Alicia Moore née le 8 septembre 1979 et ne possédant pas de carte de fidélité.
 
 ##Exercice 2
 
-Créer un formulaire permettant d'ajouter un utilisateur dans la base de données. Ajouter à ce formulaire les champs permettant de créer une carte de fidélité : numéro de carte et type de carte.
+Créer un formulaire permettant d'ajouter un client dans la base de données. Ajouter à ce formulaire les champs permettant de créer une carte de fidélité : numéro de carte et type de carte.
 
 Ajouter, grâce à ce formulaire, Louise Ciccone née le 16 août 1958 et possédant une carte de fidélité. Ajouter sa carte de fidélité n°7125. C'est une carte de type 2.
 
