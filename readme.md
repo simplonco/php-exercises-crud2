@@ -34,12 +34,12 @@ Créer un formulaire permettant de modifier un client. Afficher les informations
 
 ##Exercice 7
 
-Créer deux formulaires contenant tous les champs nécessaires à la création ou modification des clients. Afficher les informations des clients n°24 et 25. Les supprimer grâce à un bouton **supprimer** que vous aurez ajouté.
+Créer deux formulaires contenant tous les champs nécessaires à la création ou modification des clients. Afficher les informations des clients n°24 et 25. Les supprimer grâce à un bouton **supprimer** que vous aurez ajouté. (Voir image fournie)
 
 ##Exercice 8
 
-Afficher autant de formulaires que de réservations dont l'id client est 24 ou 25. Après les formulaires, ajouter un bouton supprimer et supprimer toutes ces réservations.
+Afficher autant de formulaires que de réservations dont l'id client est 24 ou 25. Après les formulaires, ajouter un bouton supprimer et supprimer toutes ces réservations. (Voir image fournie)
 
 ##Exercice 9
 
-Afficher autant de formulaires que de billets appartenant aux réservations 24 ou 25. Après les formulaires, ajouter un bouton supprimer et supprimer tous ces billets.
+Afficher autant de formulaires que de billets appartenant aux réservations 24 ou 25. Après les formulaires, ajouter un bouton supprimer et supprimer tous ces billets. (Voir image fournie)
